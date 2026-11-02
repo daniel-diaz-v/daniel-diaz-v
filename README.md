@@ -15,8 +15,8 @@ Me enfoco en **análisis de datos** y en crear **sistemas web para pequeños neg
 
 ## 🛠️ Herramientas
 
-**Datos:** Power BI · DAX · Power Query · SQL · Excel avanzado · Python (aprendiendo)
-**Desarrollo:** Next.js · TypeScript · PostgreSQL · Tailwind CSS · Git
+- **Datos:** Power BI · DAX · Power Query · SQL · Excel avanzado · Python (aprendiendo)
+- **Desarrollo:** Next.js · TypeScript · PostgreSQL · Tailwind CSS · Git
 
 ## 📜 Certificaciones
 
